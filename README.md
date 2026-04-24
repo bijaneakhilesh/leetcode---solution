@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0208-implement-trie-prefix-tree) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2833-furthest-point-from-origin) |
 ## Design
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0429-n-ary-tree-level-order-traversal) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
