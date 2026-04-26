@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0099-recover-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0099-recover-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0099-recover-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## String
 |  |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Counting
 |  |
