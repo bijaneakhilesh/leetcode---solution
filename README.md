@@ -58,23 +58,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0099-recover-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0501-find-mode-in-binary-search-tree) |
 ## String
 |  |
 | ------- |
