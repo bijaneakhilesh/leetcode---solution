@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0036-valid-sudoku) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0164-maximum-gap) |
 | [0300-longest-increasing-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0377-combination-sum-iv) |
@@ -124,5 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0164-maximum-gap) |
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
