@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0788-rotated-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0377-combination-sum-iv) |
+| [0788-rotated-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0788-rotated-digits) |
 ## Sorting
 |  |
 | ------- |
