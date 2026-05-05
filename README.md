@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
