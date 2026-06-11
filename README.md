@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## String
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Counting
 |  |
 | ------- |
