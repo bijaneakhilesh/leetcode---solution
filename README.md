@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Matrix
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0164-maximum-gap) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Bucket Sort
 |  |
