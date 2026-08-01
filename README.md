@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0377-combination-sum-iv) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0012-integer-to-roman) |
+| [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0788-rotated-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0064-minimum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0377-combination-sum-iv) |
+| [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0788-rotated-digits) |
 | [3660-jump-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3660-jump-game-ix) |
 ## Sorting
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0796-rotate-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
