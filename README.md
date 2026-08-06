@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
