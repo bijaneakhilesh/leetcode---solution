@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1140-stone-game-ii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
+| [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -239,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -247,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -256,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
