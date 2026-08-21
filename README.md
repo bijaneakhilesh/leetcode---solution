@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0260-single-number-iii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0377-combination-sum-iv) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0260-single-number-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
