@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0796-rotate-string) |
+| [1927-sum-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1927-sum-game) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2833-furthest-point-from-origin) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
+| [1927-sum-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
