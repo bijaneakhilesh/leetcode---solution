@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0210-course-schedule-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0365-water-and-jug-problem](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0365-water-and-jug-problem) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3310-remove-methods-from-project](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3310-remove-methods-from-project) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0012-integer-to-roman) |
+| [0365-water-and-jug-problem](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0365-water-and-jug-problem) |
 | [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0877-stone-game) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0210-course-schedule-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0210-course-schedule-ii) |
+| [0365-water-and-jug-problem](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0365-water-and-jug-problem) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3310-remove-methods-from-project](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3310-remove-methods-from-project) |
@@ -297,4 +300,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0210-course-schedule-ii) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
