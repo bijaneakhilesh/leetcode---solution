@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
 | [0888-fair-candy-swap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0888-fair-candy-swap) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0365-water-and-jug-problem) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
