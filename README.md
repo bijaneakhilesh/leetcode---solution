@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3660-jump-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3660-jump-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3731-find-missing-elements) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0498-diagonal-traverse) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3310-remove-methods-from-project](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0260-single-number-iii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
