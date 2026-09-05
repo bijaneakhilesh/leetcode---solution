@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0234-palindrome-linked-list) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0012-integer-to-roman) |
 | [0097-interleaving-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0097-interleaving-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0097-interleaving-string) |
 | [0300-longest-increasing-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0300-longest-increasing-subsequence) |
@@ -334,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
