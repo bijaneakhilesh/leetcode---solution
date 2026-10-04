@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0097-interleaving-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1927-sum-game) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0377-combination-sum-iv) |
 | [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1140-stone-game-ii) |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
