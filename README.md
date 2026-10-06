@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0012-integer-to-roman) |
 | [0097-interleaving-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0678-valid-parenthesis-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0377-combination-sum-iv) |
 | [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0678-valid-parenthesis-string) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
