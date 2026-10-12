@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0498-diagonal-traverse) |
+| [0624-maximum-distance-in-arrays](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0877-stone-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0888-fair-candy-swap) |
 | [1140-stone-game-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1140-stone-game-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1927-sum-game) |
