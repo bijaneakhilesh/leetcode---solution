@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0300-longest-increasing-subsequence) |
 | [0888-fair-candy-swap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0888-fair-candy-swap) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
 | [0888-fair-candy-swap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0888-fair-candy-swap) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
