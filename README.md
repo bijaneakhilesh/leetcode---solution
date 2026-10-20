@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0888-fair-candy-swap) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0796-rotate-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1927-sum-game) |
