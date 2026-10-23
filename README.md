@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3660-jump-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0260-single-number-iii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
