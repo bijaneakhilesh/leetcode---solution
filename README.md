@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0888-fair-candy-swap) |
 | [1140-stone-game-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1254-number-of-closed-islands) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2029-stone-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2029-stone-game-ix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0498-diagonal-traverse) |
+| [1254-number-of-closed-islands](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0365-water-and-jug-problem) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1254-number-of-closed-islands](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0365-water-and-jug-problem) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1254-number-of-closed-islands](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Manacher
 |  |
