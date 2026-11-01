@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0377-combination-sum-iv) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0498-diagonal-traverse) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0012-integer-to-roman) |
 | [0365-water-and-jug-problem](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0365-water-and-jug-problem) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0492-construct-the-rectangle) |
 | [0788-rotated-digits](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0788-rotated-digits) |
