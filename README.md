@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3660-jump-game-ix) |
+| [3693-climbing-stairs-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3731-find-missing-elements) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/1140-stone-game-ii) |
 | [3660-jump-game-ix](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3660-jump-game-ix) |
+| [3693-climbing-stairs-ii](https://github.com/bijaneakhilesh/leetcode---solution/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
 |  |
 | ------- |
